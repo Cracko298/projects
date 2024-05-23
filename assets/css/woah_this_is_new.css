@@ -6,10 +6,10 @@
     transform: scale(1.15);
 }
 
-.col-md-4 {
+.des {
     transition: all 0.5s ease-in-out;
 }
 
-.col-md-4:hover {
+.des:hover {
     transform: scale(1.15);
 }
